@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the7rooper
 - 👀 I’m interested in ...
-     sports, hiking, software development and management, board games
+     sports, hiking, software development and board games
 
 - 🌱 I’m currently learning ...
      godot 
