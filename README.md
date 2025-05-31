@@ -3,10 +3,7 @@
      sports, hiking, software development and board games
 
 - 🌱 I’m currently learning ...
-     godot 
-     
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+     godot
 
 <!---
 the7rooper/the7rooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
